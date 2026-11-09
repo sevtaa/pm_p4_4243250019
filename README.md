@@ -90,4 +90,4 @@ Dengan pembagian kode ke dalam beberapa file, program menjadi lebih terstruktur,
 
 ## Penggunaan AI
 
-AI digunakan sebagai alat bantu dalam memahami materi, menyusun struktur program, membantu penulisan kode, dan membuat dokumentasi. Kode program dipelajari dan diuji kembali agar sesuai dengan materi pembelajaran.
+AI digunakan sebagai alat bantu dalam memahami materi dan membuat dokumentasi. Kode program dipelajari dan diuji kembali agar sesuai dengan materi pembelajaran.
